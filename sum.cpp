@@ -3,8 +3,8 @@
 int main()
 {
 int a,b;
-a=10;
-b=15;
+cout<<"Enter the two no to be added";
+cin>>a>>" ">>b;
 int c=a+b;
 cout<<c;
 
